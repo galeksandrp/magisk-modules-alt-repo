@@ -3,13 +3,6 @@
   "timestamp": 1685780590.0,
   "versions": [
     {
-      "timestamp": 1704627770.0,
-      "version": "Revived 3.4.2-0",
-      "versionCode": 30420,
-      "zipUrl": "https://alt-repo.sanmer.app/modules/microg_installer/Revived_3.4.2-0_30420.zip",
-      "changelog": "https://alt-repo.sanmer.app/modules/microg_installer/Revived_3.4.2-0_30420.md"
-    },
-    {
       "timestamp": 1711281486.0,
       "version": "Revived 3.4.3-0",
       "versionCode": 30430,
@@ -22,6 +15,13 @@
       "versionCode": 30440,
       "zipUrl": "https://alt-repo.sanmer.app/modules/microg_installer/Revived_3.4.4-0_30440.zip",
       "changelog": "https://alt-repo.sanmer.app/modules/microg_installer/Revived_3.4.4-0_30440.md"
+    },
+    {
+      "timestamp": 1725799231.0,
+      "version": "Revived 4.1.0-0",
+      "versionCode": 40100,
+      "zipUrl": "https://alt-repo.sanmer.app/modules/microg_installer/Revived_4.1.0-0_40100.zip",
+      "changelog": "https://alt-repo.sanmer.app/modules/microg_installer/Revived_4.1.0-0_40100.md"
     }
   ]
 }

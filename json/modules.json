@@ -2,7 +2,7 @@
   "name": "Magisk Modules Alt Repo (mirror)",
   "metadata": {
     "version": 1,
-    "timestamp": 1725311575.42632
+    "timestamp": 1725916403.185715
   },
   "modules": [
     {
@@ -582,8 +582,8 @@
     {
       "id": "Malwack",
       "name": "Malwack | Anti-Malware & Ad Blocker",
-      "version": "v4.2.1",
-      "versionCode": 18,
+      "version": "v4.2.2",
+      "versionCode": 19,
       "author": "Person0z",
       "description": "Say goodbye to unwanted digital pests and send malware running with Malwack, your virtual fly swatter for the cyber world. It's like having a bouncer for your device \u2013 no entry for malware, bugs, or party crashers!",
       "track": {
@@ -597,13 +597,6 @@
       },
       "versions": [
         {
-          "timestamp": 1699391553.870629,
-          "version": "v4.0",
-          "versionCode": 15,
-          "zipUrl": "https://alt-repo.sanmer.app/modules/Malwack/v4.0_15.zip",
-          "changelog": "https://alt-repo.sanmer.app/modules/Malwack/v4.0_15.md"
-        },
-        {
           "timestamp": 1699478033.862926,
           "version": "v4.2",
           "versionCode": 17,
@@ -616,6 +609,13 @@
           "versionCode": 18,
           "zipUrl": "https://alt-repo.sanmer.app/modules/Malwack/v4.2.1_18.zip",
           "changelog": "https://alt-repo.sanmer.app/modules/Malwack/v4.2.1_18.md"
+        },
+        {
+          "timestamp": 1725916399.644105,
+          "version": "v4.2.2",
+          "versionCode": 19,
+          "zipUrl": "https://alt-repo.sanmer.app/modules/Malwack/v4.2.2_19.zip",
+          "changelog": "https://alt-repo.sanmer.app/modules/Malwack/v4.2.2_19.md"
         }
       ]
     },
@@ -1991,8 +1991,8 @@
     {
       "id": "microg_installer",
       "name": "microG Installer Revived",
-      "version": "Revived 3.4.4-0",
-      "versionCode": 30440,
+      "version": "Revived 4.1.0-0",
+      "versionCode": 40100,
       "author": "nift4",
       "description": "Install microG GmsCore, Companion (or Play Store if you want so), GsfProxy and MapsV1 to /system/",
       "track": {
@@ -2006,13 +2006,6 @@
       },
       "versions": [
         {
-          "timestamp": 1704627770.0,
-          "version": "Revived 3.4.2-0",
-          "versionCode": 30420,
-          "zipUrl": "https://alt-repo.sanmer.app/modules/microg_installer/Revived_3.4.2-0_30420.zip",
-          "changelog": "https://alt-repo.sanmer.app/modules/microg_installer/Revived_3.4.2-0_30420.md"
-        },
-        {
           "timestamp": 1711281486.0,
           "version": "Revived 3.4.3-0",
           "versionCode": 30430,
@@ -2025,6 +2018,13 @@
           "versionCode": 30440,
           "zipUrl": "https://alt-repo.sanmer.app/modules/microg_installer/Revived_3.4.4-0_30440.zip",
           "changelog": "https://alt-repo.sanmer.app/modules/microg_installer/Revived_3.4.4-0_30440.md"
+        },
+        {
+          "timestamp": 1725799231.0,
+          "version": "Revived 4.1.0-0",
+          "versionCode": 40100,
+          "zipUrl": "https://alt-repo.sanmer.app/modules/microg_installer/Revived_4.1.0-0_40100.zip",
+          "changelog": "https://alt-repo.sanmer.app/modules/microg_installer/Revived_4.1.0-0_40100.md"
         }
       ]
     },
