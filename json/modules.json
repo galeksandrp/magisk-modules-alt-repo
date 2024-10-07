@@ -2,7 +2,7 @@
   "name": "Magisk Modules Alt Repo (mirror)",
   "metadata": {
     "version": 1,
-    "timestamp": 1727730861.08035
+    "timestamp": 1728335645.759596
   },
   "modules": [
     {
@@ -2083,10 +2083,10 @@
     {
       "id": "oneplusdotfix",
       "name": "OnePlus 5/5T DotFix",
-      "version": "v6.3",
-      "versionCode": 6300,
-      "author": "Arnova8G2, defcomg, MrAimenify, shadowstep",
-      "description": "This module replaces the necessary camera libraries with modified ones which fix the Dotted Pattern Overlay issue, Front Camera HDR-Enhanced as well as Portrait Mode using the Google Camera Mod on the OnePlus 5/5T",
+      "version": "v7.0",
+      "versionCode": 7000,
+      "author": "shadowstep @ XDA",
+      "description": "This module replaces the necessary camera libraries with modified ones which fix various issues using the Google Camera Mod on the OnePlus 5/5T.",
       "track": {
         "type": "ONLINE_JSON",
         "added": 1680541981.063983,
@@ -2103,6 +2103,13 @@
           "versionCode": 6300,
           "zipUrl": "https://alt-repo.sanmer.app/modules/oneplusdotfix/v6.3_6300.zip",
           "changelog": "https://alt-repo.sanmer.app/modules/oneplusdotfix/v6.3_6300.md"
+        },
+        {
+          "timestamp": 1728300864.0,
+          "version": "v7.0",
+          "versionCode": 7000,
+          "zipUrl": "https://alt-repo.sanmer.app/modules/oneplusdotfix/v7.0_7000.zip",
+          "changelog": "https://alt-repo.sanmer.app/modules/oneplusdotfix/v7.0_7000.md"
         }
       ]
     },
