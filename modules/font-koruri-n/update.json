@@ -3,13 +3,6 @@
   "timestamp": 1677543460.0,
   "versions": [
     {
-      "timestamp": 1710052355.0,
-      "version": "v26",
-      "versionCode": 26,
-      "zipUrl": "https://alt-repo.sanmer.app/modules/font-koruri-n/v26_26.zip",
-      "changelog": "https://alt-repo.sanmer.app/modules/font-koruri-n/v26_26.md"
-    },
-    {
       "timestamp": 1710675566.0,
       "version": "v27",
       "versionCode": 27,
@@ -22,6 +15,13 @@
       "versionCode": 28,
       "zipUrl": "https://alt-repo.sanmer.app/modules/font-koruri-n/v28_28.zip",
       "changelog": "https://alt-repo.sanmer.app/modules/font-koruri-n/v28_28.md"
+    },
+    {
+      "timestamp": 1734613350.0,
+      "version": "v29",
+      "versionCode": 29,
+      "zipUrl": "https://alt-repo.sanmer.app/modules/font-koruri-n/v29_29.zip",
+      "changelog": "https://alt-repo.sanmer.app/modules/font-koruri-n/v29_29.md"
     }
   ]
 }

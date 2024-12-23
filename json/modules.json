@@ -2,7 +2,7 @@
   "name": "Magisk Modules Alt Repo (mirror)",
   "metadata": {
     "version": 1,
-    "timestamp": 1734383704.268919
+    "timestamp": 1734988402.480845
   },
   "modules": [
     {
@@ -582,8 +582,8 @@
     {
       "id": "Malwack",
       "name": "Malwack | Anti-Malware & Ad Blocker",
-      "version": "v4.2.2",
-      "versionCode": 19,
+      "version": "v4.2.6",
+      "versionCode": 23,
       "author": "Person0z",
       "description": "Say goodbye to unwanted digital pests and send malware running with Malwack, your virtual fly swatter for the cyber world. It's like having a bouncer for your device \u2013 no entry for malware, bugs, or party crashers!",
       "track": {
@@ -597,13 +597,6 @@
       },
       "versions": [
         {
-          "timestamp": 1699478033.862926,
-          "version": "v4.2",
-          "versionCode": 17,
-          "zipUrl": "https://alt-repo.sanmer.app/modules/Malwack/v4.2_17.zip",
-          "changelog": "https://alt-repo.sanmer.app/modules/Malwack/v4.2_17.md"
-        },
-        {
           "timestamp": 1699564347.079009,
           "version": "v4.2.1",
           "versionCode": 18,
@@ -616,6 +609,13 @@
           "versionCode": 19,
           "zipUrl": "https://alt-repo.sanmer.app/modules/Malwack/v4.2.2_19.zip",
           "changelog": "https://alt-repo.sanmer.app/modules/Malwack/v4.2.2_19.md"
+        },
+        {
+          "timestamp": 1734988398.490161,
+          "version": "v4.2.6",
+          "versionCode": 23,
+          "zipUrl": "https://alt-repo.sanmer.app/modules/Malwack/v4.2.6_23.zip",
+          "changelog": "https://alt-repo.sanmer.app/modules/Malwack/v4.2.6_23.md"
         }
       ]
     },
@@ -1566,8 +1566,8 @@
     {
       "id": "font-koruri-n",
       "name": "Koruri Font",
-      "version": "v28",
-      "versionCode": 28,
+      "version": "v29",
+      "versionCode": 29,
       "author": "lindwurm,AndroPlus",
       "description": "Koruri font patch for Japanese users. Koruri is open source Japanese font.",
       "track": {
@@ -1581,13 +1581,6 @@
       },
       "versions": [
         {
-          "timestamp": 1710052355.0,
-          "version": "v26",
-          "versionCode": 26,
-          "zipUrl": "https://alt-repo.sanmer.app/modules/font-koruri-n/v26_26.zip",
-          "changelog": "https://alt-repo.sanmer.app/modules/font-koruri-n/v26_26.md"
-        },
-        {
           "timestamp": 1710675566.0,
           "version": "v27",
           "versionCode": 27,
@@ -1600,6 +1593,13 @@
           "versionCode": 28,
           "zipUrl": "https://alt-repo.sanmer.app/modules/font-koruri-n/v28_28.zip",
           "changelog": "https://alt-repo.sanmer.app/modules/font-koruri-n/v28_28.md"
+        },
+        {
+          "timestamp": 1734613350.0,
+          "version": "v29",
+          "versionCode": 29,
+          "zipUrl": "https://alt-repo.sanmer.app/modules/font-koruri-n/v29_29.zip",
+          "changelog": "https://alt-repo.sanmer.app/modules/font-koruri-n/v29_29.md"
         }
       ]
     },
@@ -2149,8 +2149,8 @@
     {
       "id": "open_webview",
       "name": "Open Webview",
-      "version": "2.5.0",
-      "versionCode": 250,
+      "version": "2.5.2",
+      "versionCode": 252,
       "author": "F3FFO",
       "description": "Open Webview change your system webview",
       "track": {
@@ -2164,13 +2164,6 @@
       },
       "versions": [
         {
-          "timestamp": 1696769051.0,
-          "version": "2.3.1",
-          "versionCode": 231,
-          "zipUrl": "https://alt-repo.sanmer.app/modules/open_webview/2.3.1_231.zip",
-          "changelog": "https://alt-repo.sanmer.app/modules/open_webview/2.3.1_231.md"
-        },
-        {
           "timestamp": 1709485366.0,
           "version": "2.4.0",
           "versionCode": 240,
@@ -2183,6 +2176,13 @@
           "versionCode": 250,
           "zipUrl": "https://alt-repo.sanmer.app/modules/open_webview/2.5.0_250.zip",
           "changelog": "https://alt-repo.sanmer.app/modules/open_webview/2.5.0_250.md"
+        },
+        {
+          "timestamp": 1734388190.0,
+          "version": "2.5.2",
+          "versionCode": 252,
+          "zipUrl": "https://alt-repo.sanmer.app/modules/open_webview/2.5.2_252.zip",
+          "changelog": "https://alt-repo.sanmer.app/modules/open_webview/2.5.2_252.md"
         }
       ]
     },

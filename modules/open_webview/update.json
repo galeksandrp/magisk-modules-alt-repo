@@ -3,13 +3,6 @@
   "timestamp": 1682256699.0,
   "versions": [
     {
-      "timestamp": 1696769051.0,
-      "version": "2.3.1",
-      "versionCode": 231,
-      "zipUrl": "https://alt-repo.sanmer.app/modules/open_webview/2.3.1_231.zip",
-      "changelog": "https://alt-repo.sanmer.app/modules/open_webview/2.3.1_231.md"
-    },
-    {
       "timestamp": 1709485366.0,
       "version": "2.4.0",
       "versionCode": 240,
@@ -22,6 +15,13 @@
       "versionCode": 250,
       "zipUrl": "https://alt-repo.sanmer.app/modules/open_webview/2.5.0_250.zip",
       "changelog": "https://alt-repo.sanmer.app/modules/open_webview/2.5.0_250.md"
+    },
+    {
+      "timestamp": 1734388190.0,
+      "version": "2.5.2",
+      "versionCode": 252,
+      "zipUrl": "https://alt-repo.sanmer.app/modules/open_webview/2.5.2_252.zip",
+      "changelog": "https://alt-repo.sanmer.app/modules/open_webview/2.5.2_252.md"
     }
   ]
 }
