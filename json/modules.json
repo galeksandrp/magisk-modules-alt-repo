@@ -2,7 +2,7 @@
   "name": "Magisk Modules Alt Repo (mirror)",
   "metadata": {
     "version": 1,
-    "timestamp": 1734988402.480845
+    "timestamp": 1735593244.670586
   },
   "modules": [
     {
@@ -582,10 +582,10 @@
     {
       "id": "Malwack",
       "name": "Malwack | Anti-Malware & Ad Blocker",
-      "version": "v4.2.6",
-      "versionCode": 23,
+      "version": "v5.0.3",
+      "versionCode": 29,
       "author": "Person0z",
-      "description": "Say goodbye to unwanted digital pests and send malware running with Malwack, your virtual fly swatter for the cyber world. It's like having a bouncer for your device \u2013 no entry for malware, bugs, or party crashers!",
+      "description": "Ever wanted to get rid of those annoying ads that pop every 2 seconds in mobile games you're playing or websites you are visiting? Well, look no further with Malwack, your defense against ads!",
       "track": {
         "type": "ONLINE_JSON",
         "added": 1693757700.755931,
@@ -596,13 +596,6 @@
         "donate": ""
       },
       "versions": [
-        {
-          "timestamp": 1699564347.079009,
-          "version": "v4.2.1",
-          "versionCode": 18,
-          "zipUrl": "https://alt-repo.sanmer.app/modules/Malwack/v4.2.1_18.zip",
-          "changelog": "https://alt-repo.sanmer.app/modules/Malwack/v4.2.1_18.md"
-        },
         {
           "timestamp": 1725916399.644105,
           "version": "v4.2.2",
@@ -616,6 +609,13 @@
           "versionCode": 23,
           "zipUrl": "https://alt-repo.sanmer.app/modules/Malwack/v4.2.6_23.zip",
           "changelog": "https://alt-repo.sanmer.app/modules/Malwack/v4.2.6_23.md"
+        },
+        {
+          "timestamp": 1735593240.849337,
+          "version": "v5.0.3",
+          "versionCode": 29,
+          "zipUrl": "https://alt-repo.sanmer.app/modules/Malwack/v5.0.3_29.zip",
+          "changelog": "https://alt-repo.sanmer.app/modules/Malwack/v5.0.3_29.md"
         }
       ]
     },
