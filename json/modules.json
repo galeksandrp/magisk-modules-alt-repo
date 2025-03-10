@@ -2,7 +2,7 @@
   "name": "Magisk Modules Alt Repo (mirror)",
   "metadata": {
     "version": 1,
-    "timestamp": 1741036534.856549
+    "timestamp": 1741641273.091404
   },
   "modules": [
     {
@@ -582,8 +582,8 @@
     {
       "id": "Malwack",
       "name": "Malwack | Anti-Malware & Ad Blocker",
-      "version": "v5.0.3",
-      "versionCode": 29,
+      "version": "v5.0.4",
+      "versionCode": 30,
       "author": "Person0z",
       "description": "Ever wanted to get rid of those annoying ads that pop every 2 seconds in mobile games you're playing or websites you are visiting? Well, look no further with Malwack, your defense against ads!",
       "track": {
@@ -597,13 +597,6 @@
       },
       "versions": [
         {
-          "timestamp": 1725916399.644105,
-          "version": "v4.2.2",
-          "versionCode": 19,
-          "zipUrl": "https://alt-repo.sanmer.app/modules/Malwack/v4.2.2_19.zip",
-          "changelog": "https://alt-repo.sanmer.app/modules/Malwack/v4.2.2_19.md"
-        },
-        {
           "timestamp": 1734988398.490161,
           "version": "v4.2.6",
           "versionCode": 23,
@@ -616,6 +609,13 @@
           "versionCode": 29,
           "zipUrl": "https://alt-repo.sanmer.app/modules/Malwack/v5.0.3_29.zip",
           "changelog": "https://alt-repo.sanmer.app/modules/Malwack/v5.0.3_29.md"
+        },
+        {
+          "timestamp": 1741641272.489764,
+          "version": "v5.0.4",
+          "versionCode": 30,
+          "zipUrl": "https://alt-repo.sanmer.app/modules/Malwack/v5.0.4_30.zip",
+          "changelog": "https://alt-repo.sanmer.app/modules/Malwack/v5.0.4_30.md"
         }
       ]
     },

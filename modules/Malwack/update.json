@@ -3,13 +3,6 @@
   "timestamp": 1693759898.394917,
   "versions": [
     {
-      "timestamp": 1725916399.644105,
-      "version": "v4.2.2",
-      "versionCode": 19,
-      "zipUrl": "https://alt-repo.sanmer.app/modules/Malwack/v4.2.2_19.zip",
-      "changelog": "https://alt-repo.sanmer.app/modules/Malwack/v4.2.2_19.md"
-    },
-    {
       "timestamp": 1734988398.490161,
       "version": "v4.2.6",
       "versionCode": 23,
@@ -22,6 +15,13 @@
       "versionCode": 29,
       "zipUrl": "https://alt-repo.sanmer.app/modules/Malwack/v5.0.3_29.zip",
       "changelog": "https://alt-repo.sanmer.app/modules/Malwack/v5.0.3_29.md"
+    },
+    {
+      "timestamp": 1741641272.489764,
+      "version": "v5.0.4",
+      "versionCode": 30,
+      "zipUrl": "https://alt-repo.sanmer.app/modules/Malwack/v5.0.4_30.zip",
+      "changelog": "https://alt-repo.sanmer.app/modules/Malwack/v5.0.4_30.md"
     }
   ]
 }
