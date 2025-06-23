@@ -2,7 +2,7 @@
   "name": "Magisk Modules Alt Repo (mirror)",
   "metadata": {
     "version": 1,
-    "timestamp": 1750108573.290037
+    "timestamp": 1750713391.041904
   },
   "modules": [
     {
@@ -2031,10 +2031,10 @@
     {
       "id": "oneplus-8series-9r-camera-unlocker",
       "name": "OnePlus 8 Series & 9R Camera Unlocker",
-      "version": "v1.2",
-      "versionCode": 1200,
-      "author": "AnierinB, Cartesian8445, haiderijaz, JeusChrit, Luk1377, shadowstep",
-      "description": "Unlocks features like 48MP RAW10 support, auxiliary lenses (in custom ROMs only), Zero Shutter Lag (ZSL), etc. on the OnePlus 8, 8 Pro, 8T, and 9R",
+      "version": "v1.3",
+      "versionCode": 1300,
+      "author": "shadowstep @ XDA",
+      "description": "Unlocks features like 48MP RAW10 support, auxiliary lenses (in custom ROMs only), Zero Shutter Lag (ZSL), etc. on the OnePlus 8, 8 Pro, 8T, and 9R.",
       "track": {
         "type": "ONLINE_JSON",
         "added": 1680541975.943228,
@@ -2051,6 +2051,13 @@
           "versionCode": 1200,
           "zipUrl": "https://alt-repo.sanmer.app/modules/oneplus-8series-9r-camera-unlocker/v1.2_1200.zip",
           "changelog": "https://alt-repo.sanmer.app/modules/oneplus-8series-9r-camera-unlocker/v1.2_1200.md"
+        },
+        {
+          "timestamp": 1750658979.0,
+          "version": "v1.3",
+          "versionCode": 1300,
+          "zipUrl": "https://alt-repo.sanmer.app/modules/oneplus-8series-9r-camera-unlocker/v1.3_1300.zip",
+          "changelog": "https://alt-repo.sanmer.app/modules/oneplus-8series-9r-camera-unlocker/v1.3_1300.md"
         }
       ]
     },
