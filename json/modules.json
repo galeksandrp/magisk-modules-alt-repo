@@ -2,7 +2,7 @@
   "name": "Magisk Modules Alt Repo (mirror)",
   "metadata": {
     "version": 1,
-    "timestamp": 1762204560.250261
+    "timestamp": 1762809355.315805
   },
   "modules": [
     {
@@ -2437,8 +2437,8 @@
     {
       "id": "supl-replacer",
       "name": "A-GPS SUPL replacer",
-      "version": "v2.2.1",
-      "versionCode": 5,
+      "version": "v2.3.1",
+      "versionCode": 7,
       "author": "PlqnK, D3SOX",
       "description": "Replace the SUPL (Secure User-Plane Location) provider in Android's gps.conf.",
       "track": {
@@ -2457,6 +2457,13 @@
           "versionCode": 5,
           "zipUrl": "https://alt-repo.sanmer.app/modules/supl-replacer/v2.2.1_5.zip",
           "changelog": "https://alt-repo.sanmer.app/modules/supl-replacer/v2.2.1_5.md"
+        },
+        {
+          "timestamp": 1762425455.0,
+          "version": "v2.3.1",
+          "versionCode": 7,
+          "zipUrl": "https://alt-repo.sanmer.app/modules/supl-replacer/v2.3.1_7.zip",
+          "changelog": "https://alt-repo.sanmer.app/modules/supl-replacer/v2.3.1_7.md"
         }
       ]
     },

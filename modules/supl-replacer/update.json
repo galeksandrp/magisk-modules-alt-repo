@@ -8,6 +8,13 @@
       "versionCode": 5,
       "zipUrl": "https://alt-repo.sanmer.app/modules/supl-replacer/v2.2.1_5.zip",
       "changelog": "https://alt-repo.sanmer.app/modules/supl-replacer/v2.2.1_5.md"
+    },
+    {
+      "timestamp": 1762425455.0,
+      "version": "v2.3.1",
+      "versionCode": 7,
+      "zipUrl": "https://alt-repo.sanmer.app/modules/supl-replacer/v2.3.1_7.zip",
+      "changelog": "https://alt-repo.sanmer.app/modules/supl-replacer/v2.3.1_7.md"
     }
   ]
 }
